@@ -62,3 +62,65 @@
 # b = "Два"
 # c = "Три"
 # print(a, b, c, sep=sep1, end="")
+
+
+# num1 = int(input())
+
+# print(num1)
+# print(num1 + 1)
+# print(num1 + 2)
+
+# num1 = int(input())
+# num2 = int(input())
+# num3 = int(input())
+# num4 = int(input())
+
+# sum1 = num1 + num2 + num3 + num4
+
+# print(sum1 * 3)
+
+# a = int(input())
+# b = int(input())
+
+# exp1 = 3 * ((a + b) * (a + b) * (a + b)) + 275 * (b * b) - 127 * a - 41
+
+# print(exp1)
+
+# num1 = int(input())
+# num2 = num1 + 1
+# num3 = num1 - 1
+
+# print("Следующее за числом", num1, "число:", num2)
+# print("Для числа", num1, "предыдущее число:", num3)
+
+
+# num1 = int(input())
+
+# volume1 = num1 * num1 * num1
+# square1 = 6 * (num1 * num1)
+
+# print("Объем =", volume1)
+# print("Площадь полной поверхности =", square1)
+
+# a = int(input())
+# b = int(input())
+
+# sum1 = a + b
+# diff1 = a - b
+# mult1 = a * b
+
+# print(a, "+", b, "=", sum1)
+# print(a, "-", b, "=", diff1)
+# print(a, "*", b, "=", mult1)
+
+# a1 = int(input())
+# d = int(input())
+# n = int(input())
+
+# an = a1 + (n - 1) * d
+
+# print(an)
+
+num1 = int(input())
+
+print(num1, num1 * 2, num1 * 3, num1 * 4, num1 * 5, sep="---")
